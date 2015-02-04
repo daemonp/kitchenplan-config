@@ -2,7 +2,7 @@ attributes:
     dotfiles:
     git:
         name: Damon Petta
-        email: d@petta.org
+        email: damon@petta.org
     osxdefaults:
         computername: damon-air
     authorization:

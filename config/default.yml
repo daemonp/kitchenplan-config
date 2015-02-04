@@ -6,7 +6,7 @@ recipes:
     global:
         - applications::create_var_chef_cache
         - dotfiles::sshconfig
-     mac_os_x:
+    mac_os_x:
         - homebrewalt::default
         - applications::omnigraffle
         - applications::launchrocket
